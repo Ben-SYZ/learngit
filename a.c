@@ -5,6 +5,6 @@ int main()
 	printf("Hello GitdiffTool!\n");
 	printf("Hello diff!\n");
 	printf("git commit -v (Use diff)!\n");
-	printf("git commit -vm (Use diff)!\n");
+	printf("Sha\n");
 	return 0;
 }
