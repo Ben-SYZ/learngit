@@ -6,5 +6,6 @@ int main()
 	printf("Hello diff!\n");
 	printf("git commit -v (Use diff)!\n");
 	printf("Sha\n");
+	printf("skip temp");
 	return 0;
 }
